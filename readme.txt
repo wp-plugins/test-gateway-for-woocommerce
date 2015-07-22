@@ -5,6 +5,7 @@ Tested up to: 4.4.*
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: WooCommerce, Payment gateway, test gateway
 
 Adds a test payment gateway to WooCommerce available only to logged in administrators or when WP_DEBUG is enabled
 
